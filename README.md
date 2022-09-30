@@ -1,1 +1,1 @@
-# Stock-Market-Analysis---Banking-Sector
+# Stock-Market-Analysis-Banking-Sector
